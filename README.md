@@ -1,6 +1,6 @@
 # Git Practice
 
-# Article: *[AI killed the Agile Manifesto](https://medium.com/@jones.steveg/ai-killed-the-agile-manifesto-805ad9a639db)*
+## Article: *[AI killed the Agile Manifesto](https://medium.com/@jones.steveg/ai-killed-the-agile-manifesto-805ad9a639db)*
 
 One thing that caught my eyes about this article was that it was claiming that Agile development method is being killed by AI. I remember Professor Bloomberg teaching us about how Agile developement is a prominent method in software development, so I was intrigued at what the article was going to say. As I read further, I realized that the article isn't just dismissing Agile because of its ineffectiveness, but questioning its original values and what it means in a world of AI generated codes.
 
