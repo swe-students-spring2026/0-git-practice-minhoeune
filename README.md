@@ -1,5 +1,5 @@
 # Article
-*[AI killed the Agile Manifesto](https://medium.com/@jones.steveg/ai-killed-the-agile-manifesto-805ad9a639db)*
+*[AI killed the Agile Manifesto](https://medium.com/@jones.steveg/ai-killed-the-agile-manifesto-805ad9a639db)*  
 Author: Steve Jones
 
 ## Why is This Article Interesting?
